@@ -1,0 +1,5 @@
+pip install docx2pdf
+pip install pyodbc
+pip install docx-mailmerge
+pip install lxml
+pip install pandas
